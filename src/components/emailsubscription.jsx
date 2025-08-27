@@ -15,15 +15,13 @@ const Emailsubscription = () => {
 
 
                 <div className="px-6 py-3 border border-white text-white font-semibold rounded-lg hover:bg-white hover:text-indigo-600 transition duration-300">
-                    Learn More → 
+                    Learn More →     
                 </div>
-
-                <div>
-                    
-                </div>
+                
             </div>
         </div>
     )
 }   
+
 
 export default Emailsubscription;
